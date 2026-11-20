@@ -1,0 +1,13 @@
+[project]
+name = "cents-pitch-shift"
+version = "0.1.0"
+description = "A ComfyUI custom node for pitch shifting using cents."
+license = { text = "MIT License" }
+
+[project.urls]
+Repository = "https://github.com/vidzilla/ComfyUI-Cents-Pitch-Shift"
+
+[tool.comfy]
+PublisherId = "vidzilla"
+DisplayName = "Cents Pitch Shift"
+Icon = "https://raw.githubusercontent.com/vidzilla/ComfyUI-Cents-Pitch-Shift/main/ComfyUI-Cents-Pitch-Shift-Custom-Node.jpg"
